@@ -168,10 +168,8 @@ helm install devtron devtron/devtron-operator --namespace devtroncd \
  
 Here are the underlying tools and technologies integrated within Devtron:
 
-
-| Logo                                            | Tool                            | Purpose                                                    | GitHub Repository                                                                                            |
-| ----------------------------------------------- | ------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-
+| Logo     | Tool     | Purpose    | GitHub Repository   |
+| -------- | -------- | ---------- | ------------------- |
 | <img src="./assets/readme-logos/clair.jpg" width="64px">                | **Clair**                       | Vulnerability Static Analysis for Containers  | [Link](https://github.com/quay/clair)                                               |
 | <img src="./assets/readme-logos/trivy.jpg" width="64px">                | **Trivy**                       | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | [Link](https://github.com/aquasecurity/trivy)                               |
 | <img src="./assets/readme-logos/nats.jpg" width="64px">                 | **NATS**                        | High-Performance server for NATS.io, the cloud and edge native messaging system.        | [Link](https://github.com/nats-io/nats-server)                             |
@@ -181,9 +179,8 @@ Here are the underlying tools and technologies integrated within Devtron:
 
 ## Additional Components Supported by Devtron
 
-| Logo                                            | Tool                            | Purpose                                                    | GitHub Repository                                                                                            |
-| ----------------------------------------------- | ------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-
+| Logo     | Tool     | Purpose    | GitHub Repository   |
+| -------- | -------- | ---------- | ------------------- |
 | <img src="./assets/readme-logos/argo.jpg" width="64px">                 | **Argo CD / Argo Workflows**    | GitOps deployment and workflow automation                  | [Link](https://github.com/argoproj/argo-cd)                                   |
 | <img src="./assets/readme-logos/keda.jpg" width="64px">                 | **KEDA**                        | Event driven autoscaling for Kubernetes workloads          | [Link](https://github.com/kedacore/keda)                                         |
 | <img src="./assets/readme-logos/k8s_external_secrets.jpg" width="64px"> | **Kubernetes External Secrets** | Sync secrets from external secret stores                   | [Link](https://github.com/external-secrets/external-secrets) |
