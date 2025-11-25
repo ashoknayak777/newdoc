@@ -177,7 +177,9 @@ Here are the underlying tools and technologies integrated within Devtron:
 
 ---
 
-## Additional Components Supported by Devtron
+## External Components
+
+Here are some of the additional components supported by Devtron:
 
 | Logo     | Tool     | Purpose    | GitHub Repository   |
 | -------- | -------- | ---------- | ------------------- |
