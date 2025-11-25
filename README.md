@@ -168,18 +168,17 @@ helm install devtron devtron/devtron-operator --namespace devtroncd \
  
 Here are the tools and technologies integrated within Devtron:
 
-
 | Logo                                            | Tool                            | Purpose                                                    | GitHub Repository                                                                                            |
 | ----------------------------------------------- | ------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| <img src="./assets/readme-logos/argo.jpg" width="48px">                 | **Argo CD / Argo Workflows**    | GitOps deployment and workflow automation                  | [Link](https://github.com/argoproj/argo-cd)                                   |
-| <img src="./assets/readme-logos/clair.jpg" width="3rem">                | **Clair**                       | Vulnerability Static Analysis for Containers  | [Link](https://github.com/quay/clair)                                               |
-| <img src="./assets/readme-logos/trivy.jpg" width="3rem">                | **Trivy**                       | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | [Link](https://github.com/aquasecurity/trivy)                               |
-| <img src="./assets/readme-logos/nats.jpg" width="3rem">                 | **NATS**                        | High-Performance server for NATS.io, the cloud and edge native messaging system.        | [Link](https://github.com/nats-io/nats-server)                             |
-| <img src="./assets/readme-logos/keda.jpg" width="3rem">                 | **KEDA**                        | Event driven autoscaling for Kubernetes workloads          | [Link](https://github.com/kedacore/keda)                                         |
-| <img src="./assets/readme-logos/helm.jpg" width="3rem">                 | **Helm**                        | Kubernetes package manager                                 | [Link](https://github.com/helm/helm)                                                 |
-| <img src="./assets/readme-logos/k8s_external_secrets.jpg" width="3rem"> | **Kubernetes External Secrets** | Sync secrets from external secret stores                   | [Link](https://github.com/external-secrets/external-secrets) |
-| <img src="./assets/readme-logos/prometheus.jpg" width="3rem">           | **Prometheus**                  | Metrics collection and alerting                            | [Link](https://github.com/prometheus/prometheus)                         |
-| <img src="./assets/readme-logos/grafana.jpg" width="3rem">              | **Grafana**                     | Monitoring dashboards and visualization                    | [Link](https://github.com/grafana/grafana)                                     |
+| <img src="./assets/readme-logos/argo.jpg" width="64px">                 | **Argo CD / Argo Workflows**    | GitOps deployment and workflow automation                  | [Link](https://github.com/argoproj/argo-cd)                                   |
+| <img src="./assets/readme-logos/clair.jpg" width="64px">                | **Clair**                       | Vulnerability Static Analysis for Containers  | [Link](https://github.com/quay/clair)                                               |
+| <img src="./assets/readme-logos/trivy.jpg" width="64px">                | **Trivy**                       | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | [Link](https://github.com/aquasecurity/trivy)                               |
+| <img src="./assets/readme-logos/nats.jpg" width="64px">                 | **NATS**                        | High-Performance server for NATS.io, the cloud and edge native messaging system.        | [Link](https://github.com/nats-io/nats-server)                             |
+| <img src="./assets/readme-logos/keda.jpg" width="64px">                 | **KEDA**                        | Event driven autoscaling for Kubernetes workloads          | [Link](https://github.com/kedacore/keda)                                         |
+| <img src="./assets/readme-logos/helm.jpg" width="64px">                 | **Helm**                        | Kubernetes package manager                                 | [Link](https://github.com/helm/helm)                                                 |
+| <img src="./assets/readme-logos/k8s_external_secrets.jpg" width="64px"> | **Kubernetes External Secrets** | Sync secrets from external secret stores                   | [Link](https://github.com/external-secrets/external-secrets) |
+| <img src="./assets/readme-logos/prometheus.jpg" width="64px">           | **Prometheus**                  | Metrics collection and alerting                            | [Link](https://github.com/prometheus/prometheus)                         |
+| <img src="./assets/readme-logos/grafana.jpg" width="64px">              | **Grafana**                     | Monitoring dashboards and visualization                    | [Link](https://github.com/grafana/grafana)                                     |
 
 ---
 
