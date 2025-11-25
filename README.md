@@ -166,7 +166,7 @@ helm install devtron devtron/devtron-operator --namespace devtroncd \
 
 ## Core Tools and Technologies
  
-Here are the underlying tools and technologies integrated within Devtron:
+Here are the components that Devtron uses internally as part of its own architecture:
 
 | Logo     | Tool     | Purpose    | GitHub Repository   |
 | -------- | -------- | ---------- | ------------------- |
@@ -179,7 +179,7 @@ Here are the underlying tools and technologies integrated within Devtron:
 
 ## External Components
 
-Here are some of the additional components supported by Devtron:
+Here are some of the optional components that Devtron supports:
 
 | Logo     | Tool     | Purpose    | GitHub Repository   |
 | -------- | -------- | ---------- | ------------------- |
